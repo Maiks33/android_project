@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108907277864",
+    "firebase_url": "https://handmadeproject-36eef.firebaseio.com",
+    "project_id": "handmadeproject-36eef",
+    "storage_bucket": "handmadeproject-36eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108907277864:android:5afa21ae685ead255f4f1d",
+        "android_client_info": {
+          "package_name": "com.example.handmadeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108907277864-f00gis33v7rc24q2317ht5uet1r2idu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.handmadeproject",
+            "certificate_hash": "3f4face6c0e7f83691b3ccaa8cb6a7744227f7b9"
+          }
+        },
+        {
+          "client_id": "108907277864-ortc3t8fra26kki833f7hsqofdi6v8ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6h8QccpC6RfAoZKGjeAefD_xv6mBenQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108907277864-ortc3t8fra26kki833f7hsqofdi6v8ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
